@@ -1,0 +1,21 @@
+body{
+  background: rgb(73, 73, 73);
+}
+.heading {
+  text-align: center;
+  text-decoration: underline blueviolet;
+  color: blueviolet;
+}
+.loginPage{
+  text-align: center;
+}
+.pl{
+  text-align: center;
+  font-size: 20px;
+  color: rgb(209, 125, 15);
+}
+.wl{
+  text-align: center;
+  color: rgb(16, 16, 114);
+  font-size: 20px;
+}
